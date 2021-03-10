@@ -14,12 +14,12 @@
   "dependencies": {
     "@nuxtjs/axios": "^5.9.5",
     "@nuxtjs/pwa": "^3.0.0-0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "nuxt": "^2.11.0"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^2.0.0",
-    "@nuxtjs/eslint-module": "^1.0.0",
+    "@nuxtjs/eslint-module": "^3.0.2",
     "babel-eslint": "^10.0.1",
     "eslint": "^6.8.0",
     "eslint-config-airbnb-base": "^14.0.0",
