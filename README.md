@@ -1,6 +1,6 @@
 # nuxt dynamic static page generator
 
-This is the demo project of [this blog post](https://raoulkramer.de/nuxt-js-static-page-generator-with-dynamic-pages/).
+This is the demo project of this blog post: ["Nuxt.js Static Page Generator With Dynamic Pages"](https://raoulkramer.de/nuxt-js-static-page-generator-with-dynamic-pages/).
 
 The project will read 20 items of the dog api and create an index page and 20 detail pages too, by consuming the api.
 
