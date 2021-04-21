@@ -15,3 +15,7 @@ $ npm install
 $ npm run generate
 $ ls -l ./dist
 ```
+
+## about
+
+Have a look into [`nuxt.config.js#L64`](https://github.com/djpogo/nuxt-dynamic-static-page-generator/blob/main/nuxt.config.js#L64) to see how the dog api is read and added as routes and get built as static pages.
